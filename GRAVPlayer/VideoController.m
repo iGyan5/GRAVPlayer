@@ -7,8 +7,8 @@
 //
 
 #import "VideoController.h"
-#import "ViewControllerOne.h"
-#import "NavigationButtons.h"
+//#import "ViewControllerOne.h"
+//#import "NavigationButtons.h"
 @interface VideoController ()
 {
     AVPlayer *player;
